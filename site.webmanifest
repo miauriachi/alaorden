@@ -1,0 +1,16 @@
+{
+  "name": "Miauriachi",
+  "short_name": "Miauriachi",
+  "description": "Mariachi para serenatas, cumpleaños, bodas, XV años y eventos privados.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fff8ed",
+  "theme_color": "#9d1d2b",
+  "icons": [
+    {
+      "src": "/miauriachi-logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
